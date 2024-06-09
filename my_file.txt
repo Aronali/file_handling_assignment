@@ -1,0 +1,6 @@
+We have the following data: 2.76, 1.83, 1.80, 1.45, 1.24 
+The data are arranged from smallest to largest
+12345
+Third line of text
+Fourth line of text
+54321
